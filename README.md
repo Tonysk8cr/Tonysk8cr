@@ -1,16 +1,25 @@
-## Hi there 👋
+# <h1 align="center">Hi, I'm <a href="https://github.com/Tonysk8cr">Anthony<a></h1>
 
-<!--
-**Tonysk8cr/Tonysk8cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<strong>About Me:</strong><br>
+💻 I’m currently working at @<a href="https://github.com/servicenow">ServiceNow</a> <br>
+📚 I study Computer Science at Universidad Hispanoamericana CR<br>
+📈 Experienced in building web, desktop, and machine learning applications<br>
+📫 Reach me at <a href="mailto:tonyiish223@gmail.com">tonyiish223@gmail.com</a><br>
+😄 Find me on <a href="https://www.linkedin.com/in/anthony-villalobos-55bb1a221/">Linkedin</a><br><br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>💡 My Languages :</strong><br><br>
+<img src="https://www.svgrepo.com/show/521273/c-sharp-16.svg"/>
+<img src="https://www.svgrepo.com/show/452045/js.svg"/>
+<img src="https://www.svgrepo.com/show/452091/python.svg"/>
+<img src="https://www.svgrepo.com/show/452088/php.svg"/><br>
+
+
+<strong>🚀 Check my projects here : <a href="https://github.com/Tonysk8cr?tab=repositories">HERE</a> </strong><br><br>
+
+</div>
+
+------
+Credit: [Kathryn-Jie](https://github.com/Kathryn-Jie)
+Last Edited on: 15/4/2021
