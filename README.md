@@ -9,7 +9,7 @@
 😄 Find me on <a href="https://www.linkedin.com/in/anthony-villalobos-55bb1a221/">Linkedin</a><br><br><br>
 
 
-<strong>💡 My Languages :</strong><br>
+<strong>💡 My Languages :</strong><br><br>
 <a href="https://github.com/Tonysk8cr/P4G2" target="_blank">
   <img src="https://img.icons8.com/?size=256&id=45490&format=png" width="30" alt="C#"/>
 </a>
@@ -23,6 +23,7 @@
   <img src="https://www.svgrepo.com/show/452088/php.svg" width="30" alt="PHP"/>
 </a>
 
+<br>
 <strong>🚀 Check my projects here : <a href="https://github.com/Tonysk8cr?tab=repositories">HERE</a> </strong><br><br>
 
 </div>
