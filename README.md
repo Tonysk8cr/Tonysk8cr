@@ -11,16 +11,16 @@
 
 <strong>💡 My Languages :</strong><br>
 <a href="https://github.com/Tonysk8cr/P4G2" target="_blank">
-  <img src="https://img.icons8.com/?size=256&id=45490&format=png" width="40" alt="C#"/>
+  <img src="https://img.icons8.com/?size=256&id=45490&format=png" width="30" alt="C#"/>
 </a>
 <a href="https://github.com/Tonysk8cr/P1G5P3" target="_blank">
-  <img src="https://www.svgrepo.com/show/452045/js.svg" width="40" alt="JS"/>
+  <img src="https://www.svgrepo.com/show/452045/js.svg" width="30" alt="JS"/>
 </a>
 <a href="https://github.com/Tonysk8cr/LETW" target="_blank">
-  <img src="https://www.svgrepo.com/show/452091/python.svg" width="40" alt="Python"/>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" width="30" alt="Python"/>
 </a>
 <a href="https://github.com/Tonysk8cr/P1G5P3" target="_blank">
-  <img src="https://www.svgrepo.com/show/452088/php.svg" width="40" alt="PHP"/>
+  <img src="https://www.svgrepo.com/show/452088/php.svg" width="30" alt="PHP"/>
 </a>
 
 <strong>🚀 Check my projects here : <a href="https://github.com/Tonysk8cr?tab=repositories">HERE</a> </strong><br><br>
