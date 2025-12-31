@@ -30,5 +30,5 @@
 
 ------
 <div align="center">
-Credit: [Kathryn-Jie](https://github.com/Kathryn-Jie)
+  <h1>Credit: [Kathryn-Jie](https://github.com/Kathryn-Jie)</h1>
 </div>
