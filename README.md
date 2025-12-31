@@ -10,10 +10,27 @@
 
 
 <strong>💡 My Languages :</strong><br><br>
-<img src="https://www.svgrepo.com/show/521273/c-sharp-16.svg"/>
-<img src="https://www.svgrepo.com/show/452045/js.svg"/>
-<img src="https://www.svgrepo.com/show/452091/python.svg"/>
-<img src="https://www.svgrepo.com/show/452088/php.svg"/><br>
+
+<div class="languages">
+  <img src="https://www.svgrepo.com/show/521273/c-sharp-16.svg" alt="C#">
+  <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python">
+  <img src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP">
+</div>
+
+<style>
+  .languages {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* espacio entre iconos */
+  }
+
+  .languages img {
+    width: 20px;
+    height: 20px;
+  }
+</style>
+
 
 
 <strong>🚀 Check my projects here : <a href="https://github.com/Tonysk8cr?tab=repositories">HERE</a> </strong><br><br>
