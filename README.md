@@ -9,17 +9,19 @@
 😄 Find me on <a href="https://www.linkedin.com/in/anthony-villalobos-55bb1a221/">Linkedin</a><br><br><br>
 
 
-<strong>💡 My Languages :</strong><br><br>
+<strong>💡 My Languages :</strong><br>
 <a href="https://github.com/Tonysk8cr/P4G2" target="_blank">
   <img src="https://img.icons8.com/?size=256&id=45490&format=png" width="20" alt="C#"/>
 </a>
-
-
-
-<img src="https://www.svgrepo.com/show/452045/js.svg" width="20"/>
-<img src="https://www.svgrepo.com/show/452091/python.svg" width="20"/>
-<img src="https://www.svgrepo.com/show/452088/php.svg" width="20"/>
-
+<a href="https://github.com/Tonysk8cr/P1G5P3" target="_blank">
+  <img src="https://www.svgrepo.com/show/452045/js.svg" width="20" alt="JS"/>
+</a>
+<a href="https://github.com/Tonysk8cr/LETW" target="_blank">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" width="20" alt="Python"/>
+</a>
+<a href="https://github.com/Tonysk8cr/P1G5P3" target="_blank">
+  <img src="https://www.svgrepo.com/show/452088/php.svg" width="20" alt="PHP"/>
+</a>
 
 <strong>🚀 Check my projects here : <a href="https://github.com/Tonysk8cr?tab=repositories">HERE</a> </strong><br><br>
 
