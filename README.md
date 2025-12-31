@@ -29,4 +29,6 @@
 </div>
 
 ------
+<div align="center">
 Credit: [Kathryn-Jie](https://github.com/Kathryn-Jie)
+</div>
