@@ -10,8 +10,12 @@
 
 
 <strong>💡 My Languages :</strong><br><br>
+<a href="https://github.com/Tonysk8cr/P4G2" target="_blank">
+  <img src="https://img.icons8.com/?size=256&id=45490&format=png" width="20" alt="C#"/>
+</a>
 
-<img src="https://www.svgrepo.com/show/521273/c-sharp-16.svg" width="20"/>
+
+
 <img src="https://www.svgrepo.com/show/452045/js.svg" width="20"/>
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="20"/>
 <img src="https://www.svgrepo.com/show/452088/php.svg" width="20"/>
@@ -23,4 +27,3 @@
 
 ------
 Credit: [Kathryn-Jie](https://github.com/Kathryn-Jie)
-Last Edited on: 15/4/2021
