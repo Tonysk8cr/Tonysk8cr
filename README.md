@@ -24,7 +24,7 @@
 </a>
 
 <br>
-<strong>🚀 Check my projects here : <a href="https://github.com/Tonysk8cr?tab=repositories">HERE</a> </strong><br><br>
+<strong>🚀 Check my projects: <a href="https://github.com/Tonysk8cr?tab=repositories">HERE</a> </strong><br><br>
 
 </div>
 
