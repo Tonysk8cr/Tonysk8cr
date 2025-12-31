@@ -1,6 +1,6 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/Tonysk8cr">Anthony<a></h1>
 
-<div>
+<div align="center">
 <strong>About Me:</strong><br>
 💻 I’m currently working at @<a href="https://github.com/servicenow">ServiceNow</a> <br>
 📚 I study Computer Science at Universidad Hispanoamericana CR<br>
