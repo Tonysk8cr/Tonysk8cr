@@ -2,7 +2,7 @@
 
 <div align="center">
 <strong>About Me:</strong><br>
-💻 I’m currently working at @<a href="https://github.com/servicenow">ServiceNow</a> <br>
+💻 I’m currently working at <a href="https://github.com/servicenow">ServiceNow</a> <br>
 📚 I study Computer Science at Universidad Hispanoamericana CR<br>
 📈 Experienced in building web, desktop, and machine learning applications<br>
 📫 Reach me at <a href="mailto:tonyiish223@gmail.com">tonyiish223@gmail.com</a><br>
