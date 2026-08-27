@@ -32,16 +32,6 @@
 
 </div>
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonysk8cr&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonysk8cr&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -52,7 +42,3 @@
 </div>
 
 ---
-
-<div align="center">
-<sub>Credit: <a href="https://github.com/Kathryn-Jie">Kathryn-Jie</a></sub>
-</div>
