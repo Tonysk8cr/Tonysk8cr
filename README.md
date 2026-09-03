@@ -14,7 +14,7 @@
 
 ### About Me
 
-- Currently working at **[ServiceNow](https://github.com/servicenow)**
+- Currently working searching for new opportunities!
 - Studying Computer Science at **Universidad Hispanoamericana, Costa Rica**
 - Experienced in building web, desktop, and machine learning applications
 - Passionate about software development, AI, and open-source projects
