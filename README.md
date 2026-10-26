@@ -113,9 +113,9 @@ class Anthony:
 |---|---|---|
 | Technical Support Engineer | **ServiceNow** | Sep 2025 – Sep 2026 |
 | Sr. Technical Process Executive | **Infosys** | Apr 2024 – Sep 2025 |
-| Customer Service Agent / SME | **Foundever** | Jan 2023 – Mar 2024 |
+| Technical Support / SME | **Foundever** | Jan 2023 – Mar 2024 |
 
-**🏅 Certifications:** ServiceNow CSA · Scrum Foundation Professional · Infosys Cyber Security Foundations · Infosys Fundamentals of Cryptography
+**🏅 Certifications:** Azure Foundamentals · ServiceNow CSA · Scrum Foundation Professional · Infosys Cyber Security Foundations · Infosys Fundamentals of Cryptography
 
 ---
 
