@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Anthony%20Villalobos&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Data%20%C2%B7%20Costa%20Rica&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Anthony Villalobos" />
+##Anthony Villalobos
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+Universidad+Hispanoamericana;Machine+Learning+%26+Computer+Vision;Translating+LESCO+to+text+with+AI;Open+to+new+opportunities+%F0%9F%9A%80;Pura+vida+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" />
 
