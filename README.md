@@ -1,6 +1,6 @@
 <div align="center">
 
-##Anthony Villalobos
+<h1>Anthony Villalobos</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CS+Student+%40+Universidad+Hispanoamericana;Machine+Learning+%26+Computer+Vision;Translating+LESCO+to+text+with+AI;Open+to+new+opportunities+%F0%9F%9A%80;Pura+vida+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" />
 
